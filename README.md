@@ -14,6 +14,11 @@ The wear degree of each segment doubles annually. Thus, if a segment has an init
 If a worn segment (degree > 0) is adjacent to a perfect segment (degree = 0), it will transfer half of its wear degree to the adjacent segment after one year.
 If two adjacent segments are both worn, the higher wear degree will be used for the transfer. The wear degrees are updated iteratively over 
 𝐾 years, applying the above rules for each segment and its neighbors.
+<br></br>
+Example of wear progression over 2 years:
+<p align="center">
+    <img width="400" src="https://github.com/user-attachments/assets/ec05e21b-3fd7-4a69-8d58-fe12579ee85a">
+</p>
 <h3>
   Preservation Criteria
 </h3>
