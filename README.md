@@ -1,5 +1,5 @@
 <h1>
-  Railway Degradation Analysis Overview
+  Railway Degradation Analysis 
 </h1>
 I developed a simulation model to <b>analyze the degradation of railway segments</b> over a specified period. The model evaluates the wear level of each railway segment and determines which routes are worth preserving based on their average degradation after a given number of years.
 I utilized <b>graph theory</b> to represent the railway network as an undirected graph, implementing adjacency lists for efficient traversal and analysis.
