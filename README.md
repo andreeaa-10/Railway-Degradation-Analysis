@@ -8,6 +8,7 @@ I utilized <b>graph theory</b> to represent the railway network as an undirected
 </h2>
 <h3>
   Method Description
+</h3>
 The goal of this analysis is to determine which segments of old railway routes should be preserved based on their wear levels over a specified period (K years). Each route is represented as a series of segments, each assigned a wear degree (D). A segment is considered in perfect condition with a wear degree of 0%, while it is deemed unusable when it reaches 100%.
 <h3>
   Wear Progression Model
