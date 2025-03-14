@@ -22,7 +22,7 @@ Example of wear progression over 2 years:
 <p align="center">
     <img width="400" src="https://github.com/user-attachments/assets/ec05e21b-3fd7-4a69-8d58-fe12579ee85a">
 </p>
-<h2>
+<h3>
   Preservation Criteria
-</h2>
+</h3>
 After 𝐾 years, a route is deemed worthy of preservation if the average wear degree across all its segments is below a specified threshold 𝐿.
